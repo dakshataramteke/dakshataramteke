@@ -11,11 +11,11 @@
   <ul>
     <li><b>Frontend Technologies </b>: HTML, CSS, JavaSript (ES6+), React JS/ Vite </li>
     <li><b>Backend Technologies </b>: Node Js, Express Js , Restful API</li>
-    <li><b>Database </b>: Mongo DB , Mongoose, CRUD Operations </li>
+    <li><b>Database </b>: Mongo DB , Mongoose, MYSQL </li>
     <li><b>Framework & Library </b>: React Js, Bootstrap </li>
     <li><b>Programming Language </b>: C, C++</li>
      <li><b>Git Control: </b>:Git & Github </li>
-    <li><b>Others: </b>: XML, JSON</li>
+    <li><b>Others: </b>: XML, JSON, CRUD Operation </li>
   </ul>
 
 </p>
