@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dakshata Ramteke</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">React JS Developer</h3>
 
--  I’m currently learning **MERN Stack Development**
+- I’m currently learning **MERN Stack Development** & **React JS Developer**.
 
   <h3>About Me</h3>
-  <p>I am pursuing a Master's in Computer Science and a strong passion for web development. I am enthusiastic about my professional skills in my projects.Also completed my OJT training on React JS and my Internship from codesoft which gives me a Experience and potenitial ability with my Journey. </p>
+  <p>I am currently pursuing a Master's degree in Computer Science, with a strong passion for web development. I have developed a solid foundation in my professional skills through various projects, and I recently completed an On-the-Job Training (OJT) program focused on React JS. Additionally, I gained valuable experience during my internship at Codesoft, which has further enhanced my abilities and potential in the field. I am enthusiastic about leveraging my skills and experiences to contribute to innovative web development projects.
+
+ </p>
 <p align="left">
   <hr/>
   <h3>Skills : </h3>
