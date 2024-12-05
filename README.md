@@ -5,10 +5,8 @@
 
   <h3>About Me</h3>
   <p>I am currently pursuing a Master's degree in Computer Science, with a strong passion for web development. I have developed a solid foundation in my professional skills through various projects, and I recently completed an On-the-Job Training (OJT) program focused on React JS. Additionally, I gained valuable experience during my internship at Codesoft, which has further enhanced my abilities and potential in the field. I am enthusiastic about leveraging my skills and experiences to contribute to innovative web development projects.
-    <br/>
- <p>Click here for <a href="https://github.com/dakshataramteke/Portfolio">Portfolio</a></p> 
-
  </p>
+  <p>Click here for <a href="https://github.com/dakshataramteke/Portfolio">Portfolio</a></p>  
 <p align="left">
   <hr/>
   <h3>Skills : </h3>
