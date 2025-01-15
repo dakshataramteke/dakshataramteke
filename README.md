@@ -16,6 +16,7 @@
     <li><b>Framework & Library </b>: React Js, Bootstrap5 </li>
     <li><b>Programming Language </b>: C, C++, JavaScript</li>
     <li><b>Git Control: </b>:Git & Github </li>
+    <li><b>Deployment Tools: </b>:Netlify, Vercel </li>
     <li><b>Others: </b>: XML, JSON, CRUD Operation </li>
   </ul>
 
