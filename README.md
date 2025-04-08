@@ -9,10 +9,10 @@
   <hr/>
   <h3>Skills : </h3>
   <ul>
-    <li><b>Frontend Technologies </b>: HTML5, CSS3, JavaSript (ES6+), React JS/ Vite </li>
+    <li><b>Frontend Technologies </b>: HTML5, CSS3, JavaSript (ES6+), React JS / Vite , Tailwind CSS </li>
     <li><b>Backend Technologies </b>: Node Js, Express Js , Restful API</li>
     <li><b>Database </b>: Mongo DB , Mongoose, MYSQL </li>
-    <li><b>Framework & Library </b>: React Js, Material UI, Bootstrap5 </li>
+    <li><b>Framework & Library </b>: React JS, Material UI, Bootstrap5 </li>
     <li><b>Programming Language </b>: C, C++, JavaScript</li>
     <li><b>Git Control </b>: Git & Github </li>
     <li><b>API Tools </b>: Postman API, Hoppscotch API </li>
