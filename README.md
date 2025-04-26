@@ -3,7 +3,7 @@
 
 
   <h3>About Me</h3>
-  <p>I am currently pursuing a Master's degree in Computer Science, with a strong passion for web development in React Js. I have developed a solid foundation in my professional skills through various projects and I have completed an On-the-Job Training (OJT) program focused on React JS. Additionally, I gained valuable experience during my ( 6 Months )internship at Sky Vision IT Solution for , also completed MERN Stack Certification from Apna College, which has further enhanced my abilities and potential in the field. I am enthusiastic about leveraging my skills and experiences to contribute to innovative web development projects.
+  <p>I am currently pursuing a Master's degree in Computer Science, with a strong passion for web development in React Js. I have developed a solid foundation in my professional skills through various projects and I have completed an On-the-Job Training (OJT) program focused on React JS. Additionally, I gained valuable experience during my (6 Months) internship at Sky Vision IT Solution for , also completed MERN Stack Certification from Apna College, which has further enhanced my abilities and potential in the field. I am enthusiastic about leveraging my skills and experiences to contribute to innovative web development projects.
  </p>
 <p align="left">
   <hr/>
