@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dakshata Ramteke</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
   <h3>About Me</h3>
@@ -9,13 +9,13 @@
   <hr/>
   <h3>Skills : </h3>
   <ul>
-    <li><b>Frontend Technologies </b>: HTML5, CSS3, JavaSript (ES6+), React JS / Vite, Tailwind CSS </li>
-    <li><b>Backend Technologies </b>: Node Js, Express Js, Restful API, MVC</li>
-    <li><b>Database </b>: Mongo DB, Mongoose, MYSQL </li>
-    <li><b>Framework & Library </b>: React JS, Material UI, Bootstrap5, NPM </li>
+    <li><b>Frontend Technologies </b>: HTML5, CSS3, JavaSript (ES6+), React JS, Vue Js, Tailwind CSS </li>
+    <li><b>Backend Technologies </b>: Node Js, Express Js, Restful API, MVC </li>
+    <li><b>Database </b>: Mongo DB, Mongoose, MYSQL, PostgreSql </li>
+    <li><b>Framework & Library </b>: Material UI, Bootstrap5, Tailwind Css, NPM </li>
     <li><b>Programming Language </b>: C, C++, JavaScript</li>
-    <li><b>Git Control </b>: Git & Github </li>
-    <li><b>API Tools </b>: Postman API, Hoppscotch API </li>
+    <li><b>Version Control </b>: Git, Github, BitBucket </li>
+    <li><b>API Testing Tools </b>: Postman API, Hoppscotch API </li>
     <li><b>Deployment Tools: </b>: Netlify, Vercel, Github Pages</li>
   </ul>
 </p>
